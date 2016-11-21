@@ -1,4 +1,4 @@
-//—˜_’lFy=3.6071x+1.4786
+// y=3.6071x+1.4786
 package squares;
 
 public class Squares_main {
